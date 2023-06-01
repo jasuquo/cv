@@ -1,8 +1,8 @@
 # My cv
-```
+
 mypicture.png![image](https://github.com/jasuquo/cv/assets/10384951/4eb78ff0-a6d5-428e-8b19-1434f7ca03a5)
 
-```
+
 As a DevOps Engineer with expertise in cloud technologies and infrastructure automation, I am passionate about optimizing software delivery processes and enhancing system reliability. With a strong background in cloud platforms such as AWS and Azure, I excel in leveraging tools like Terraform, CloudFormation, and Ansible to create efficient and scalable infrastructure.
 
 My experience includes implementing continuous integration and deployment practices using Jenkins, GitLab, and GitOps, as well as containerization and orchestration using Docker, Kubernetes, and Red Hat OpenShift. I am skilled in monitoring and logging solutions with CloudWatch, ELK Stack, Nagios, Splunk, Prometheus, and Grafana. Additionally, I am proficient in scripting with Bash and Python, and have a deep understanding of Linux and Windows operating systems.
